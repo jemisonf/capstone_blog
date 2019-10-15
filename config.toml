@@ -1,3 +1,12 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Fischer Jemison: CS Capstone Dev Blog"
+theme = "solar-theme-hugo"
+
+[params]
+  scheme = "preference" # light, dark, gray or preference
+
+[menu]
+  [[menu.main]]
+    name = "Source"
+    url = "https://github.com/jemisonf/capstone_blog"
