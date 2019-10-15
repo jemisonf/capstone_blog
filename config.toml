@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://capstone.fgj.codes"
 languageCode = "en-us"
 title = "Fischer Jemison: CS Capstone Dev Blog"
 theme = "solar-theme-hugo"
